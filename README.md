@@ -2,6 +2,10 @@
 
 <h3 align="center">A passionate Web Developer</h3>
 
+
+I'm Ahmad Raheem, a software developer with over 6 months of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+
+
 - 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning ****

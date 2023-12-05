@@ -26,7 +26,6 @@ I'm Ahmad Raheem, a software developer with over 6 months of experience in web a
 
 
 
-<br>
 
 
 
@@ -40,8 +39,6 @@ I'm Ahmad Raheem, a software developer with over 6 months of experience in web a
 
 
 
-
-<br>
 
 
 

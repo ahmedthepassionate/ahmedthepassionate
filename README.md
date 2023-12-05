@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raheem</h1>
+
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on **JS**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Node.js,**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
 - 📫 How to reach me **ahmed.etco@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
